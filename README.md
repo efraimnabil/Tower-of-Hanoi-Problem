@@ -7,7 +7,7 @@ Tower of Hanoi Problem is a mathematical puzzle where we have three stacks and 4
 
 The puzzle starts with the cubes in a neat stack in ascending order of size on one stack, the smallest at the top and the other two stacks empty.
 
-![alt text](cubes.png)
+![alt text](assets/cubes.png)
 
 You can play the game by cloning the repository and run this command in the terminal:
 
