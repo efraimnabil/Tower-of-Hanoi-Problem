@@ -11,6 +11,15 @@ The puzzle starts with the cubes in a neat stack in ascending order of size on o
 
 You can play the game by cloning the repository and run this command in the terminal:
 
+clone the repository and run this command in the terminal:
+
+Clone the repo
+
+```bash
+git clone https://github.com/efraimnabil/Tower-of-Hanoi-Problem.git
+```
+Run the game
+
 ```bash
 g++ main.cpp Game.cpp stack.cpp cube.cpp -o main
 ```
