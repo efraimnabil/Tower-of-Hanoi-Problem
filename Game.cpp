@@ -2,7 +2,7 @@
 
 #include "Game.h"
 #include "stack.h"
-#include "NS/cube.h"
+#include "cube.h"
 #include <bits/stdc++.h>
 using namespace std;
 

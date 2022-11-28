@@ -12,7 +12,7 @@ The puzzle starts with the cubes in a neat stack in ascending order of size on o
 You can play the game by cloning the repository and run this command in the terminal:
 
 ```bash
-g++ main.cpp Game.cpp stack.cpp "NS/cube.cpp" -o main
+g++ main.cpp Game.cpp stack.cpp cube.cpp -o main
 ```
 
 then run the main file by typing this command in the terminal:

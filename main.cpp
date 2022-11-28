@@ -14,6 +14,5 @@ int main(){
     cout << "Final game state: " << endl;
     cout << game << endl;
 
-
     return 0;
 }

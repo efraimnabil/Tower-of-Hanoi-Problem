@@ -2,7 +2,7 @@
 
 #pragma once
 #include "bits/stdc++.h"
-#include "NS/cube.h"
+#include "cube.h"
 using uiuc::cube;
 using namespace std;
 class Stack {
