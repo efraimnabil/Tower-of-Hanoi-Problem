@@ -1,7 +1,7 @@
 //@author: Efraim Nabil
 
 #include <iostream>
-#include "cube.h"
+#include "header-files/cube.h"
 
 namespace uiuc{
     cube::cube(double length){

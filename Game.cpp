@@ -1,8 +1,8 @@
 // @author : Efraim Nabil
 
-#include "Game.h"
-#include "stack.h"
-#include "cube.h"
+#include "header-files/Game.h"
+#include  "header-files/stack.h"
+#include  "header-files/cube.h"
 #include <bits/stdc++.h>
 using namespace std;
 
