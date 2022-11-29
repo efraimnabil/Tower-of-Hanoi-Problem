@@ -30,15 +30,15 @@ void Game:: Play(){
             cout << "To: ";
             cin >> to;
             if (from == to){
-                cout << "Invalid move" << endl;
+                cout << "\nInvalid move!\n" << endl;
                 continue;
             }
             if (from < 1 || from > 3 || to < 1 || to > 3){
-                cout << "Invalid move" << endl;
+                cout << "\nInvalid move!\n" << endl;
                 continue;
             }
             if (stacks_[from - 1].size() == 0){
-                cout << "Invalid move" << endl;
+                cout << "\nInvalid move!\n" << endl;
                 continue;
             }
             if (stacks_[to - 1].size() == 0){
@@ -52,11 +52,11 @@ void Game:: Play(){
                 continue;
             }
             else{
-                cout << "Invalid move" << endl;
+                cout << "\nInvalid move!\n" << endl;
                 continue;
             }
         }
-    cout << "Congratulations! You won!" << endl;
+    cout << "\nCongratulations! You won!\n" << endl;
 }
 
 

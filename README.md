@@ -9,9 +9,9 @@ The puzzle starts with the cubes in a neat stack in ascending order of size on o
 
 ![alt text](assets/cubes.png)
 
-You can play the game by cloning the repository and run this command in the terminal:
+This is my implementation to the Game and You can play the game by cloning the repository and run this command in the terminal:
 
-clone the repository and run this command in the terminal:
+Clone the repository and run this command in the terminal:
 
 Clone the repo
 
